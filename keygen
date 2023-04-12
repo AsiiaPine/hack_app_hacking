@@ -1,0 +1,3 @@
+chmod +x ./hack_app_keygen_binary
+./hack_app_keygen_binary
+getfattr -n user.license hack_app_keygen_binary

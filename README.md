@@ -1,5 +1,7 @@
 # Lab 2 GDB
 Author: Anastasiia Stepanova
+Sourse ASSEMBLY patch and keygen code:
+https://github.com/AsiiaPine/hack_app_hacking
 
 1. Create keygen for hack_app.
 2. Create binary patch to disable licensing completely.
@@ -56,8 +58,10 @@ Result:
 1 - we get the key
 2 - the key is working\
 \
-![Result for keygen](pictures/keygen_result.png) 
-
+![Result for keygen](pictures/keygen_result.png) \
+\
+All the commands has been added to small bash **keygen** script.
+![](/pictures/keygen_result_script.png)
 
 ## Patch
 
