@@ -1,3 +1,5 @@
-chmod +x ./hack_app_keygen_binary
-./hack_app_keygen_binary
-getfattr -n user.license hack_app_keygen_binary
+python patch.py
+
+chmod +x ./hack_app_patched
+./hack_app_patched
+getfattr -n user.license hack_app_patched
